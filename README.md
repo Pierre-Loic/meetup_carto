@@ -6,3 +6,5 @@ Ce dépôt contient le support de l'atelier sur la cartographie en Python qui a 
 
 
 <a href="https://github.com/Pierre-Loic/meetup_carto/notebooks/index.html?path=Atelier_cartographie.ipynb" target="_blank">Lien vers le notebook de l'atelier</a>
+
+⚠️ Penser à ouvrir le lien en **navigation privée** pour éviter d'avoir des problèmes avec des données restées en mémoire
