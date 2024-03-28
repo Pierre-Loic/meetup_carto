@@ -7,4 +7,8 @@ Ce dépôt contient le support de l'atelier sur la cartographie en Python qui a 
 
 <a href="https://github.com/Pierre-Loic/meetup_carto/notebooks/index.html?path=Atelier_cartographie.ipynb" target="_blank">Lien vers le notebook de l'atelier</a>
 
+<a href="https://colab.research.google.com/github/Pierre-Loic/meetup_carto/blob/main/content/Atelier_cartographie_final.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ⚠️ Penser à ouvrir le lien en **navigation privée** pour éviter d'avoir des problèmes avec des données restées en mémoire
